@@ -26,3 +26,5 @@ a = -9 b = -3 -> max = -3
 
 5 -> 2, 4
 8 -> 2, 4, 6, 8
+
+[БЛОК-СХЕМА](hw_1_task_4/diagram.drawio.png) | [КОД](hw_1_task_4/Program.cs)
